@@ -5,7 +5,11 @@ Precisa ser instalado para o funcionamento:
 
 > Tailwind CSS
 
-> Vite
+> Phosphor
+
+> Headless UI
+
+> Vite | Axios
 
 > Prisma
 
