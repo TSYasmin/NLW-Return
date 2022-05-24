@@ -2,7 +2,11 @@
 # NLW Return - Impulse | FeedBack Widget
 Precisa ser instalado para o funcionamento:
 > NPM & ReactJS/TS (node.js installer)
+
 > Tailwind CSS
+
 > Vite
+
 > Prisma
+
 > Babel
